@@ -124,7 +124,7 @@ This dashboard can help hospital management:
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard]()
+![Hospital Emergency Room Dashboard](https://github.com/bharat-chotwani/Hospital_Emergency_Room_Dashboard/blob/main/Dashboard_Hospital_Emergency_Room_Data.png)
 
 ---
 
